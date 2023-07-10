@@ -1,0 +1,10 @@
+[tLF1,errorLF1,ampLF1,uLF1,uexactLF1] = leapfrog(2,50);
+[tLF2,errorLF2,ampLF2,uLF2,uexactLF2] = leapfrog(1,50);
+[tLF3,errorLF3,ampLF3,uLF3,uexactLF3] = leapfrog(4,50);
+[tLF4,errorLF4,ampLF4,uLF4,uexactLF4] = leapfrog(2,10);
+[tLF5,errorLF5,ampLF5,uLF5,uexactLF5] = leapfrog(1,25,10,1);
+[tRG1,errorRG1,ampRG1,uRG1,uexactRG1] = RG3(2,50);
+[tRG2,errorRG2,ampRG2,uRG2,uexactRG2] = RG3(1,50);
+[tRG3,errorRG3,ampRG3,uRG3,uexactRG3] = RG3(4,50);
+[tRG4,errorRG4,ampRG4,uRG4,uexactRG4] = RG3(2,10);
+[tRG5,errorRG5,ampRG5,uRG5,uexactRG5] = RG3(1,25,10,1);
